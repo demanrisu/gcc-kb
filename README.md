@@ -4,7 +4,7 @@
 
 *Ideally, information will be collected and condensed on this wiki, instead of being scattered across hundreds of websites, Reddit posts, and YouTube videos.*
 
-### Basic Information for Beginners
+## Basic Information for Beginners
 
 <sup><em>New to all this? Start here.</em></sup>
 
@@ -20,7 +20,7 @@
 
 ***
 
-### Functional & Electrical Modding
+## Functional & Electrical Modding
 
 <sup><em>Mods to enhance and/or modify the function of your GameCube controller.</em></sup>
 
@@ -31,7 +31,7 @@
 
 ***
 
-### Aesthetic Modding
+## Aesthetic Modding
 
 <sup><em>Aesthetic modding - paint, decals, tints, custom buttons, and just-for-show electronic mods.</em></sup>
 
@@ -59,7 +59,7 @@
 
 ***
 
-### Technical Knowledge Reference
+## Technical Knowledge Reference
 
 * [Smash Bros. Input Maps](https://docs.google.com/spreadsheets/d/1Zh0kDLW4w_Dzv8uz1IYM3mewAmKSl4c-qhRbKXpUM_U/edit#gid=0)
 * [GameCube Controller Pinouts](https://docs.google.com/spreadsheets/d/1X-F21F838uQRCuYsc7nQoAv6I2dchvXtBSNTf-ZOc9M/edit#gid=0)
@@ -80,7 +80,7 @@
 
 ***
 
-### Miscellaneous Guides
+## Miscellaneous Guides
 
 * [Photo Guide by FishyCustoms](https://docs.google.com/document/d/1EJ7ahrJYcyTDm21T9rPnfEdSg7uhigToSZP_k-buXIw/edit)
 * Guide2
